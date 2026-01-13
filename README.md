@@ -10,6 +10,7 @@ A responsive 4-question quiz app on computer fundamentals, HTML, and JavaScript.
 - Final score display `X/4` with Play Again button
 
 📁 File Structure
+.
 ├── index.html (quiz UI + radio inputs)
 ├── style.css (responsive design + pink theme)
 └── script.js (4 questions + scoring logic)
